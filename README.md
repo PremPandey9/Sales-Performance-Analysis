@@ -1,5 +1,3 @@
-# Sales-Performance-Analysis
-Sales Performance Analysis using Python, Pandas, and Matplotlib to uncover business insights, sales trends, regional performance, and product-level analytics from Superstore Sales data.
 # Sales Performance Analysis
 
 This project analyzes Superstore Sales data to evaluate sales performance across regions, product categories, and time periods. The analysis includes data cleaning, KPI calculations, exploratory data analysis (EDA), and visualizations to identify sales trends, top-performing products, regional performance, and seasonal patterns.
